@@ -43,7 +43,7 @@ npm run format or yarn format
 
 ## Screenshots
 
-Here is a screenshot of the app running:
+Here is the screenshots of the app running:
 
 ![App Screenshot](./public/screenshots/app-home.png)
 ![App Screenshot](./public/screenshots/app-fetch.png)
